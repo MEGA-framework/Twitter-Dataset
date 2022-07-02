@@ -11,6 +11,6 @@ The format of the csv file is:
   <li>Tweet ID</li>
   <li>Date</li>
 </ul>
-in comma-separated columns.
+in comma-separated columns. <br /> <br />
 
 Due to privacy concerns, we can only provide the tweet IDs and the dates. To obtain the raw data of each tweet, tools such as <a href="https://github.com/DocNow/hydrator">Hydrator</a> can be used to rehydrate the dataset.
