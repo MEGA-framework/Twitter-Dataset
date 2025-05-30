@@ -19,7 +19,7 @@ Due to privacy concerns, we can only provide the tweet IDs and the dates. To obt
 If you use the provided Twitter Dataset of the COVID-19 Pandemic for research that results in a publication, please cite our [paper](https://ieeexplore.ieee.org/abstract/document/10251942):
 ```
 @article{hang2023mega,
-  title={MEGA: machine learning-enhanced graph analytics for infodemic risk management},
+  title={{MEGA}: Machine learning-enhanced graph analytics for infodemic risk management},
   author={Hang, Ching Nam and Yu, Pei-Duo and Chen, Siya and Tan, Chee Wei and Chen, Guanrong},
   journal={IEEE Journal of Biomedical and Health Informatics},
   volume={27},
