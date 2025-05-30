@@ -16,7 +16,7 @@ in comma-separated columns. <br /> <br />
 Due to privacy concerns, we can only provide the tweet IDs and the dates. To obtain the raw data of each tweet, tools such as <a href="https://github.com/DocNow/hydrator">Hydrator</a> can be used to rehydrate the dataset.
 
 ## Citing
-If you use the provided Twitter Dataset of the COVID-19 Pandemic for research that results in a publication, please cite our paper:
+If you use the provided Twitter Dataset of the COVID-19 Pandemic for research that results in a publication, please cite our [paper](https://ieeexplore.ieee.org/abstract/document/10251942):
 ```
 @article{hang2023mega,
   title={MEGA: machine learning-enhanced graph analytics for infodemic risk management},
