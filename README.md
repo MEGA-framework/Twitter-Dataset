@@ -14,3 +14,18 @@ The format of the csv file is:
 in comma-separated columns. <br /> <br />
 
 Due to privacy concerns, we can only provide the tweet IDs and the dates. To obtain the raw data of each tweet, tools such as <a href="https://github.com/DocNow/hydrator">Hydrator</a> can be used to rehydrate the dataset.
+
+## Citing
+If you use the provided Twitter Dataset of the COVID-19 Pandemic for research that results in a publication, please cite our paper:
+```
+@article{hang2023mega,
+  title={MEGA: machine learning-enhanced graph analytics for infodemic risk management},
+  author={Hang, Ching Nam and Yu, Pei-Duo and Chen, Siya and Tan, Chee Wei and Chen, Guanrong},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  volume={27},
+  number={12},
+  pages={6100--6111},
+  year={2023},
+  publisher={IEEE}
+}
+```
